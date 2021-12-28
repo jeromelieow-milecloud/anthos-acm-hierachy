@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: test2
   labels:
-    key: "geo"
+    geo: "test2"
